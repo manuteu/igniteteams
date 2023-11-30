@@ -31,6 +31,7 @@ export default function Groups() {
             message='Nenhuma turma cadastrada'
           />
         }
+        showsVerticalScrollIndicator={false}
       />
       <Button
         title='Criar nova turma'
